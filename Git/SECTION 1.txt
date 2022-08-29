@@ -1,0 +1,53 @@
+SECTION-1 (HTML ASSIGNMENTS)
+
+21.
+
+22.
+$ mkdir Assignments
+$ cd Assignments
+
+23.
+$ touch README.txt
+
+24.
+$ git add README.txt
+$ git commit -m "Adding README"
+
+25.
+$ git branch html-assignments
+
+26.
+$ git checkout html-assignments
+
+28.
+$ git add .
+$ git commit -m "Committing all html files"
+
+30.
+$ git commit -m "modifying files"
+
+31.
+$ git checkout master
+
+32.
+$ git commit -a -m "Modifying README in master"
+
+33.
+$ git checkout html-assignments
+
+35.
+$ git commit -a -m "Modfiying html files"
+
+36.
+$ git checkout master
+
+37.
+$ git merge html-assignments
+
+38.
+$ git branch -d html-assignments
+
+(Note - Changes 29 and 34 are edits made in files)
+
+
+

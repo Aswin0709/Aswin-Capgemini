@@ -1,0 +1,41 @@
+SECTION-3 (JS ASSIGNMENTS)
+
+1.
+$ git branch js-assignments
+
+2.
+$ git checkout js-assignments
+
+4.
+$ git add .
+$ git commit -m "Committing all js files"
+
+5.
+$ touch README.txt
+
+6.
+$ git add .
+$ git commit -m "Commiting README file"
+
+7.
+$ git checkout master
+
+8.
+$ git commit -a -m "Modifying README in master"
+
+9.
+$ git checkout js-assignments
+
+11.
+$ git commit -a -m "Modfiying js files"
+
+12.
+$ git checkout master
+
+13.
+$ git merge js-assignments
+
+14.
+$ git branch -d js-assignments
+
+(Note - Change 10 is an edit made in a file)

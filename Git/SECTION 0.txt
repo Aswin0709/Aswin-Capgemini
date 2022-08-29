@@ -1,0 +1,59 @@
+ASSIGNMENT 1 - USE GIT AS LOCAL VCS
+
+1. 
+$ mkdir project_dir
+$ cd project_dir
+
+2.
+$ git init
+
+3.
+$ touch index.html
+
+4.
+$ git status
+
+5.
+$ git add index.html
+
+6.
+$ git commit -m "Adding index.html"
+
+7.
+$ touch info.txt
+
+8.
+$ git status
+
+9.
+$ touch .gitignore
+
+10.
+$ git status
+
+11.
+$ git commit -a -m "Modified index.html"
+
+12.
+$ git log
+
+14.
+$ git checkout index.html
+
+16.
+$ git add index.html
+
+17.
+$ git reset HEAD index.html
+
+18.
+$ alias my_add = "git add"
+
+19.
+$ my_add index.html
+$ git commit -m "Using alias for adding index.html"
+
+20.
+$ git reset HEAD~
+
+(Note - Changes 13 and 15 are edits made in files)
