@@ -25,7 +25,7 @@ group by CustomerId , FirstName+ ' ' +LastName
 order by MaxOrders Desc
 
 --10. Display the customerid whose name has substring ‘RA’
-Select Id From Customer
+Select Id From tblCustomer
 Where FirstName+' '+LastName like '%RA%'
 
 /* Data insufficient for answering questions 1,2,3,6,7,11 */
