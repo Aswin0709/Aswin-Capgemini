@@ -19,7 +19,7 @@
             EmpName = empName;
             Salary = salary;
         
-            if (this.Salary < 500)
+            if (this.Salary < 5000)
             {
                 this.HRA = .1 * this.Salary;
                 this.TA = .05 * this.Salary;

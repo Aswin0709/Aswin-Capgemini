@@ -19,6 +19,9 @@ class EmployeeManagement
             e[i] = new Employee(EmpNo, EmpName, Salary);
             Console.WriteLine("Gross salary of employee {0} is {1}", i + 1, e[i].GrossSalary);
         }
-
+        for(int i = 0; i < n; i++)
+        {
+            Console.WriteLine("Information of Employee {0} \n  EmployeeNo = {1} \n  EmployeeName = {2} \n  Salary = {3}\n  Gross Salary = {4}", i + 1, e[i].EmpNo, e[i].EmpName, e[i].Salary, e[i].GrossSalary);
+        }
     }
 }
