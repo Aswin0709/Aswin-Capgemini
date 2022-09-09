@@ -1,0 +1,36 @@
+C:\Users\aswin\Desktop\Csharp\LitwareLib\LitwareLib\bin\Debug\net6.0\LitwareLib.deps.json
+C:\Users\aswin\Desktop\Csharp\LitwareLib\LitwareLib\bin\Debug\net6.0\LitwareLib.dll
+C:\Users\aswin\Desktop\Csharp\LitwareLib\LitwareLib\bin\Debug\net6.0\LitwareLib.pdb
+C:\Users\aswin\Desktop\Csharp\LitwareLib\LitwareLib\obj\Debug\net6.0\LitwareLib.csproj.AssemblyReference.cache
+C:\Users\aswin\Desktop\Csharp\LitwareLib\LitwareLib\obj\Debug\net6.0\LitwareLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aswin\Desktop\Csharp\LitwareLib\LitwareLib\obj\Debug\net6.0\LitwareLib.AssemblyInfoInputs.cache
+C:\Users\aswin\Desktop\Csharp\LitwareLib\LitwareLib\obj\Debug\net6.0\LitwareLib.AssemblyInfo.cs
+C:\Users\aswin\Desktop\Csharp\LitwareLib\LitwareLib\obj\Debug\net6.0\LitwareLib.csproj.CoreCompileInputs.cache
+C:\Users\aswin\Desktop\Csharp\LitwareLib\LitwareLib\obj\Debug\net6.0\LitwareLib.dll
+C:\Users\aswin\Desktop\Csharp\LitwareLib\LitwareLib\obj\Debug\net6.0\refint\LitwareLib.dll
+C:\Users\aswin\Desktop\Csharp\LitwareLib\LitwareLib\obj\Debug\net6.0\LitwareLib.pdb
+C:\Users\aswin\Desktop\Csharp\LitwareLib\LitwareLib\obj\Debug\net6.0\ref\LitwareLib.dll
+D:\Capgemini Assignment\C#\LitwareLib (Assignment 2)\LitwareLib\bin\Debug\net6.0\LitwareLib.deps.json
+D:\Capgemini Assignment\C#\LitwareLib (Assignment 2)\LitwareLib\bin\Debug\net6.0\LitwareLib.dll
+D:\Capgemini Assignment\C#\LitwareLib (Assignment 2)\LitwareLib\bin\Debug\net6.0\LitwareLib.pdb
+D:\Capgemini Assignment\C#\LitwareLib (Assignment 2)\LitwareLib\obj\Debug\net6.0\LitwareLib.csproj.AssemblyReference.cache
+D:\Capgemini Assignment\C#\LitwareLib (Assignment 2)\LitwareLib\obj\Debug\net6.0\LitwareLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Assignment\C#\LitwareLib (Assignment 2)\LitwareLib\obj\Debug\net6.0\LitwareLib.AssemblyInfoInputs.cache
+D:\Capgemini Assignment\C#\LitwareLib (Assignment 2)\LitwareLib\obj\Debug\net6.0\LitwareLib.AssemblyInfo.cs
+D:\Capgemini Assignment\C#\LitwareLib (Assignment 2)\LitwareLib\obj\Debug\net6.0\LitwareLib.csproj.CoreCompileInputs.cache
+D:\Capgemini Assignment\C#\LitwareLib (Assignment 2)\LitwareLib\obj\Debug\net6.0\LitwareLib.dll
+D:\Capgemini Assignment\C#\LitwareLib (Assignment 2)\LitwareLib\obj\Debug\net6.0\refint\LitwareLib.dll
+D:\Capgemini Assignment\C#\LitwareLib (Assignment 2)\LitwareLib\obj\Debug\net6.0\LitwareLib.pdb
+D:\Capgemini Assignment\C#\LitwareLib (Assignment 2)\LitwareLib\obj\Debug\net6.0\ref\LitwareLib.dll
+D:\Capgemini Assignment\C#\Assignment 2(OOPS)\LitwareLib\bin\Debug\net6.0\LitwareLib.deps.json
+D:\Capgemini Assignment\C#\Assignment 2(OOPS)\LitwareLib\bin\Debug\net6.0\LitwareLib.dll
+D:\Capgemini Assignment\C#\Assignment 2(OOPS)\LitwareLib\bin\Debug\net6.0\LitwareLib.pdb
+D:\Capgemini Assignment\C#\Assignment 2(OOPS)\LitwareLib\obj\Debug\net6.0\LitwareLib.csproj.AssemblyReference.cache
+D:\Capgemini Assignment\C#\Assignment 2(OOPS)\LitwareLib\obj\Debug\net6.0\LitwareLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Assignment\C#\Assignment 2(OOPS)\LitwareLib\obj\Debug\net6.0\LitwareLib.AssemblyInfoInputs.cache
+D:\Capgemini Assignment\C#\Assignment 2(OOPS)\LitwareLib\obj\Debug\net6.0\LitwareLib.AssemblyInfo.cs
+D:\Capgemini Assignment\C#\Assignment 2(OOPS)\LitwareLib\obj\Debug\net6.0\LitwareLib.csproj.CoreCompileInputs.cache
+D:\Capgemini Assignment\C#\Assignment 2(OOPS)\LitwareLib\obj\Debug\net6.0\LitwareLib.dll
+D:\Capgemini Assignment\C#\Assignment 2(OOPS)\LitwareLib\obj\Debug\net6.0\refint\LitwareLib.dll
+D:\Capgemini Assignment\C#\Assignment 2(OOPS)\LitwareLib\obj\Debug\net6.0\LitwareLib.pdb
+D:\Capgemini Assignment\C#\Assignment 2(OOPS)\LitwareLib\obj\Debug\net6.0\ref\LitwareLib.dll
