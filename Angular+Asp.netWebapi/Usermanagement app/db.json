@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "email": "Unni@gmail.com",
+      "firstName": "Aswin",
+      "lastName": "Unnikrishnan"
+    },
+    {
+      "id": 3,
+      "email": "arun@gmail.com",
+      "firstName": "arun",
+      "lastName": "chand"
+    },
+    {
+      "id": 4,
+      "email": "sahil@gmail.com",
+      "firstName": "sahil",
+      "lastName": "muhammad"
+    },
+    {
+      "id": 5,
+      "firstName": "Aswin",
+      "lastName": "K Unnikrishnan",
+      "email": "aswin@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

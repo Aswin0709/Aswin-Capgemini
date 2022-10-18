@@ -1,0 +1,29 @@
+<div style="color:white; background-color: purple; padding: 10px; ">
+  <h2 style="text-align:center; margin-top: 20px; ">A to Z Solutions-User Management App ...! </h2>
+</div>
+<hr/>
+
+  
+<div class="container">
+  <div class="row">  
+
+    <div class="col-md-8">
+      <router-outlet></router-outlet>
+    </div>
+
+    <div class="col-md-4">
+      <br/>
+        <img src="../assets/images/myimage.png" />
+        <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+    </div>
+
+  </div>
+  <br/><br/>
+  <div>
+      <footer><span class="text-danger"><strong>This site is copyright &copy; to ABCD. 
+        All rights are reserved here ..!</strong></span>
+        <p class = "text-primary">{{today | date:'dd-LLLL-yyyy' }}</p>
+      </footer>
+  </div>
+</div>
